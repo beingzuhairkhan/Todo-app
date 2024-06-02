@@ -193,14 +193,14 @@ body {
   .todo > p {
     padding-left: 0;
     padding-bottom: 0.5rem;
-    font-size: 1.25rem; /* Increase font size for better readability */
-    word-wrap: break-word; /* Ensure long text wraps properly */
+    font-size: 1.25rem; 
+    word-wrap: break-word;
   }
 
   .todo > .isCompleted {
     margin-bottom: 0.5rem;
     width: 1.25rem;
-    height: 1.25rem; /* Adjust size for better touch targets */
+    height: 1.25rem;
   }
 
   .todo > .todo-Delete {
